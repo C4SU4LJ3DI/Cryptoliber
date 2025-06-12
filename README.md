@@ -1,7 +1,7 @@
 
 Witaj!</br></br>
 ꧂   
-𖥸<b> Umiejętności: </b>𖥸
+𖥸<b> xyyyz: </b>𖥸
 </br><i>
 </br>➥ HTML
 </br>➥ CSS
